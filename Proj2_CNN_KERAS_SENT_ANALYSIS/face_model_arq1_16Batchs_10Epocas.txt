@@ -1,0 +1,40 @@
+Using TensorFlow backend.
+CONJUNTO DE DADOS:  5907
+TREINAMENTO:  4521
+TESTE:  1386
+2018-10-22 16:42:13.506262: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+2018-10-22 16:42:13.741539: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1411] Found device 0 with properties:
+name: GeForce GTX 1050 Ti major: 6 minor: 1 memoryClockRate(GHz): 1.392
+pciBusID: 0000:01:00.0
+totalMemory: 4.00GiB freeMemory: 3.29GiB
+2018-10-22 16:42:13.745775: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1490] Adding visible gpu devices: 0
+2018-10-22 16:42:14.511842: I tensorflow/core/common_runtime/gpu/gpu_device.cc:971] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-10-22 16:42:14.515219: I tensorflow/core/common_runtime/gpu/gpu_device.cc:977]      0
+2018-10-22 16:42:14.516812: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0:   N
+2018-10-22 16:42:14.518727: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 3007 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1050 Ti, pci bus id: 0000:01:00.0, compute capability: 6.1)
+CNN INICIALIZADA!
+Train on 4521 samples, validate on 1386 samples
+Epoch 1/10
+4521/4521 [==============================] - 99s 22ms/step - loss: 1.8414 - acc: 0.3324 - val_loss: 1.7456 - val_acc: 0.2785
+Epoch 2/10
+4521/4521 [==============================] - 93s 21ms/step - loss: 1.7704 - acc: 0.3440 - val_loss: 1.7330 - val_acc: 0.2965
+Epoch 3/10
+4521/4521 [==============================] - 93s 21ms/step - loss: 1.6141 - acc: 0.4035 - val_loss: 1.3814 - val_acc: 0.5014
+Epoch 4/10
+4521/4521 [==============================] - 93s 21ms/step - loss: 1.5031 - acc: 0.4320 - val_loss: 1.3151 - val_acc: 0.5224
+Epoch 5/10
+4521/4521 [==============================] - 92s 20ms/step - loss: 1.4183 - acc: 0.4459 - val_loss: 1.3024 - val_acc: 0.5051
+Epoch 6/10
+4521/4521 [==============================] - 93s 21ms/step - loss: 1.3219 - acc: 0.4696 - val_loss: 1.2743 - val_acc: 0.5238
+Epoch 7/10
+4521/4521 [==============================] - 93s 21ms/step - loss: 1.2317 - acc: 0.4913 - val_loss: 1.2393 - val_acc: 0.5195
+Epoch 8/10
+4521/4521 [==============================] - 92s 20ms/step - loss: 1.1477 - acc: 0.5158 - val_loss: 1.2322 - val_acc: 0.5281
+Epoch 9/10
+4521/4521 [==============================] - 92s 20ms/step - loss: 1.0852 - acc: 0.5160 - val_loss: 1.2656 - val_acc: 0.5303
+Epoch 10/10
+4521/4521 [==============================] - 92s 20ms/step - loss: 1.0113 - acc: 0.5346 - val_loss: 1.2880 - val_acc: 0.5274
+PERDA:  1.287973963165008
+ACURÁCIA:  0.5274170274277786
+CNN FINALIZADA!
+TEMPO TOTAL:  950.9716658592224

@@ -1,0 +1,164 @@
+Parcela final dos erros quadráticos:
+
+Erro Médio Quadrático =  0.00021947101972852678
+Erro Médio Quadrático =  0.00021947052193483876
+Erro Médio Quadrático =  0.00021947002420719531
+Erro Médio Quadrático =  0.0002194695265456017
+Erro Médio Quadrático =  0.00021946902895003356
+Erro Médio Quadrático =  0.00021946853142049285
+Erro Médio Quadrático =  0.00021946803395698185
+Erro Médio Quadrático =  0.00021946753655946964
+Erro Médio Quadrático =  0.0002194670392279674
+Erro Médio Quadrático =  0.0002194665419624338
+Erro Médio Quadrático =  0.0002194660447629034
+Erro Médio Quadrático =  0.0002194655476293354
+Erro Médio Quadrático =  0.00021946505056172566
+Erro Médio Quadrático =  0.0002194645535600733
+Erro Médio Quadrático =  0.0002194640566243735
+Erro Médio Quadrático =  0.00021946355975459793
+Erro Médio Quadrático =  0.00021946306295077739
+Erro Médio Quadrático =  0.00021946256621285996
+Erro Médio Quadrático =  0.00021946206954083622
+Erro Médio Quadrático =  0.00021946157293472
+Erro Médio Quadrático =  0.00021946107639450686
+Erro Médio Quadrático =  0.00021946057992016732
+Erro Médio Quadrático =  0.0002194600835117045
+Erro Médio Quadrático =  0.00021945958716911446
+Erro Médio Quadrático =  0.00021945909089238634
+Erro Médio Quadrático =  0.0002194585946814916
+Erro Médio Quadrático =  0.00021945809853643637
+Erro Médio Quadrático =  0.00021945760245722074
+Erro Médio Quadrático =  0.0002194571064438068
+Erro Médio Quadrático =  0.00021945661049622978
+Erro Médio Quadrático =  0.00021945611461445102
+Erro Médio Quadrático =  0.00021945561879846155
+Erro Médio Quadrático =  0.00021945512304825918
+Erro Médio Quadrático =  0.00021945462736382262
+Erro Médio Quadrático =  0.0002194541317451569
+Erro Médio Quadrático =  0.00021945363619225498
+Erro Médio Quadrático =  0.00021945314070510128
+Erro Médio Quadrático =  0.00021945264528369928
+Erro Médio Quadrático =  0.00021945214992801382
+Erro Médio Quadrático =  0.0002194516546380581
+Erro Médio Quadrático =  0.000219451159413818
+Erro Médio Quadrático =  0.0002194506642552913
+Erro Médio Quadrático =  0.00021945016916244544
+Erro Médio Quadrático =  0.00021944967413529206
+Erro Médio Quadrático =  0.00021944917917382392
+Erro Médio Quadrático =  0.00021944868427802272
+Erro Médio Quadrático =  0.00021944818944787993
+Erro Médio Quadrático =  0.00021944769468337962
+Erro Médio Quadrático =  0.00021944719998453287
+Erro Médio Quadrático =  0.00021944670535133557
+Erro Médio Quadrático =  0.0002194462107837527
+Erro Médio Quadrático =  0.00021944571628177721
+Erro Médio Quadrático =  0.00021944522184540532
+Erro Médio Quadrático =  0.00021944472747465482
+Erro Médio Quadrático =  0.000219444233169477
+Erro Médio Quadrático =  0.0002194437389298829
+Erro Médio Quadrático =  0.000219443244755855
+Erro Médio Quadrático =  0.0002194427506474072
+Erro Médio Quadrático =  0.00021944225660451208
+Erro Médio Quadrático =  0.00021944176262715721
+Erro Médio Quadrático =  0.00021944126871533567
+Erro Médio Quadrático =  0.00021944077486905783
+Erro Médio Quadrático =  0.00021944028108828324
+Erro Médio Quadrático =  0.00021943978737301521
+Erro Médio Quadrático =  0.00021943929372326073
+Erro Médio Quadrático =  0.0002194388001389947
+Erro Médio Quadrático =  0.00021943830662022018
+Erro Médio Quadrático =  0.000219437813166912
+Erro Médio Quadrático =  0.0002194373197790699
+Erro Médio Quadrático =  0.00021943682645668484
+Erro Médio Quadrático =  0.00021943633319974827
+Erro Médio Quadrático =  0.0002194358400082635
+Erro Médio Quadrático =  0.0002194353468821849
+Erro Médio Quadrático =  0.00021943485382155202
+Erro Médio Quadrático =  0.0002194343608263211
+Erro Médio Quadrático =  0.00021943386789650035
+Erro Médio Quadrático =  0.00021943337503206462
+Erro Médio Quadrático =  0.00021943288223303105
+Erro Médio Quadrático =  0.0002194323894993627
+Erro Médio Quadrático =  0.00021943189683106622
+Erro Médio Quadrático =  0.00021943140422812585
+Erro Médio Quadrático =  0.00021943091169055538
+Erro Médio Quadrático =  0.0002194304192183059
+Erro Médio Quadrático =  0.00021942992681140135
+Erro Médio Quadrático =  0.0002194294344698194
+Erro Médio Quadrático =  0.00021942894219354085
+Erro Médio Quadrático =  0.00021942844998258302
+Erro Médio Quadrático =  0.0002194279578369242
+Erro Médio Quadrático =  0.0002194274657565706
+Erro Médio Quadrático =  0.00021942697374146362
+Erro Médio Quadrático =  0.00021942648179163875
+--------------TERMINOU--------------
+Quantidade de Épocas =  20001
+Valor desejado: [1. 0. 0.]Valor obtido: [1. 0. 0.]
+Valor desejado: [1. 0. 0.]Valor obtido: [1. 0. 0.]
+Valor desejado: [1. 0. 0.]Valor obtido: [1. 0. 0.]
+Valor desejado: [1. 0. 0.]Valor obtido: [1. 0. 0.]
+Valor desejado: [1. 0. 0.]Valor obtido: [1. 0. 0.]
+Valor desejado: [1. 0. 0.]Valor obtido: [1. 0. 0.]
+Valor desejado: [1. 0. 0.]Valor obtido: [1. 0. 0.]
+Valor desejado: [1. 0. 0.]Valor obtido: [1. 0. 0.]
+Valor desejado: [1. 0. 0.]Valor obtido: [1. 0. 0.]
+Valor desejado: [1. 0. 0.]Valor obtido: [1. 0. 0.]
+Valor desejado: [1. 0. 0.]Valor obtido: [1. 0. 0.]
+Valor desejado: [1. 0. 0.]Valor obtido: [1. 0. 0.]
+Valor desejado: [1. 0. 0.]Valor obtido: [1. 0. 0.]
+Valor desejado: [1. 0. 0.]Valor obtido: [1. 0. 0.]
+Valor desejado: [1. 0. 0.]Valor obtido: [1. 0. 0.]
+Valor desejado: [1. 0. 0.]Valor obtido: [1. 0. 0.]
+Valor desejado: [1. 0. 0.]Valor obtido: [1. 0. 0.]
+Valor desejado: [1. 0. 0.]Valor obtido: [1. 0. 0.]
+Valor desejado: [1. 0. 0.]Valor obtido: [0. 0. 1.]
+Valor desejado: [1. 0. 0.]Valor obtido: [0. 0. 0.]
+Valor desejado: [1. 0. 0.]Valor obtido: [1. 0. 0.]
+Valor desejado: [0. 1. 0.]Valor obtido: [0. 1. 0.]
+Valor desejado: [0. 1. 0.]Valor obtido: [0. 1. 0.]
+Valor desejado: [0. 1. 0.]Valor obtido: [0. 1. 0.]
+Valor desejado: [0. 1. 0.]Valor obtido: [0. 1. 0.]
+Valor desejado: [0. 1. 0.]Valor obtido: [0. 1. 0.]
+Valor desejado: [0. 1. 0.]Valor obtido: [0. 1. 0.]
+Valor desejado: [0. 1. 0.]Valor obtido: [0. 1. 0.]
+Valor desejado: [0. 1. 0.]Valor obtido: [0. 1. 0.]
+Valor desejado: [0. 1. 0.]Valor obtido: [0. 0. 0.]
+Valor desejado: [0. 1. 0.]Valor obtido: [0. 1. 0.]
+Valor desejado: [0. 1. 0.]Valor obtido: [0. 1. 0.]
+Valor desejado: [0. 1. 0.]Valor obtido: [0. 1. 0.]
+Valor desejado: [0. 1. 0.]Valor obtido: [0. 1. 0.]
+Valor desejado: [0. 1. 0.]Valor obtido: [0. 1. 0.]
+Valor desejado: [0. 1. 0.]Valor obtido: [0. 1. 0.]
+Valor desejado: [0. 1. 0.]Valor obtido: [0. 1. 0.]
+Valor desejado: [0. 1. 0.]Valor obtido: [0. 1. 0.]
+Valor desejado: [0. 1. 0.]Valor obtido: [0. 1. 0.]
+Valor desejado: [0. 1. 0.]Valor obtido: [0. 1. 0.]
+Valor desejado: [0. 1. 0.]Valor obtido: [0. 1. 0.]
+Valor desejado: [0. 1. 0.]Valor obtido: [0. 1. 0.]
+Valor desejado: [0. 0. 1.]Valor obtido: [1. 0. 0.]
+Valor desejado: [0. 0. 1.]Valor obtido: [0. 0. 0.]
+Valor desejado: [0. 0. 1.]Valor obtido: [0. 0. 1.]
+Valor desejado: [0. 0. 1.]Valor obtido: [0. 0. 1.]
+Valor desejado: [0. 0. 1.]Valor obtido: [0. 0. 1.]
+Valor desejado: [0. 0. 1.]Valor obtido: [0. 0. 1.]
+Valor desejado: [0. 0. 1.]Valor obtido: [0. 0. 0.]
+Valor desejado: [0. 0. 1.]Valor obtido: [0. 0. 1.]
+Valor desejado: [0. 0. 1.]Valor obtido: [0. 0. 1.]
+Valor desejado: [0. 0. 1.]Valor obtido: [0. 0. 1.]
+Valor desejado: [0. 0. 1.]Valor obtido: [0. 0. 1.]
+Valor desejado: [0. 0. 1.]Valor obtido: [0. 0. 1.]
+Valor desejado: [0. 0. 1.]Valor obtido: [0. 0. 1.]
+Valor desejado: [0. 0. 1.]Valor obtido: [0. 0. 0.]
+Valor desejado: [0. 0. 1.]Valor obtido: [0. 0. 1.]
+Valor desejado: [0. 0. 1.]Valor obtido: [0. 0. 1.]
+Valor desejado: [0. 0. 1.]Valor obtido: [0. 0. 1.]
+Valor desejado: [0. 0. 1.]Valor obtido: [0. 0. 1.]
+Valor desejado: [0. 0. 1.]Valor obtido: [1. 0. 0.]
+Valor desejado: [0. 0. 1.]Valor obtido: [0. 0. 0.]
+Valor desejado: [0. 0. 1.]Valor obtido: [1. 0. 0.]
+Qtd de neurônios na camada oculta: 3
+Qtd de neurônios na camada de saída: 3
+Parcela de teste: 0.3
+Taxa de aprendizado: 0.5
+Acurácia: 90.48
+Quantidade de epocas: 20001

@@ -1,0 +1,106 @@
+Parcela final dos erros quadráticos:
+
+Erro Médio Quadrático =  1.1969750840645318e-05
+Erro Médio Quadrático =  1.19438382671794e-05
+Erro Médio Quadrático =  1.1918051334957437e-05
+Erro Médio Quadrático =  1.1892389243898578e-05
+Erro Médio Quadrático =  1.1866851177169266e-05
+Erro Médio Quadrático =  1.1841436302489707e-05
+Erro Médio Quadrático =  1.181614377342283e-05
+Erro Médio Quadrático =  1.1790972730653927e-05
+Erro Médio Quadrático =  1.1765922303254767e-05
+Erro Médio Quadrático =  1.1740991609934985e-05
+Erro Médio Quadrático =  1.171617976026886e-05
+Erro Médio Quadrático =  1.1691485855914252e-05
+Erro Médio Quadrático =  1.1666908991803235e-05
+Erro Médio Quadrático =  1.1642448257316375e-05
+Erro Médio Quadrático =  1.1618102737434584e-05
+Erro Médio Quadrático =  1.1593871513866393e-05
+Erro Médio Quadrático =  1.1569753666151462e-05
+Erro Médio Quadrático =  1.154574827273953e-05
+Erro Médio Quadrático =  1.1521854412038992e-05
+Erro Médio Quadrático =  1.1498071163442017e-05
+Erro Médio Quadrático =  1.1474397608317526e-05
+Erro Médio Quadrático =  1.1450832830973343e-05
+Erro Médio Quadrático =  1.1427375919590276e-05
+Erro Médio Quadrático =  1.1404025967121758e-05
+Erro Médio Quadrático =  1.1380782072159084e-05
+Erro Médio Quadrático =  1.1357643339766325e-05
+Erro Médio Quadrático =  1.1334608882276843e-05
+Erro Médio Quadrático =  1.1311677820056562e-05
+Erro Médio Quadrático =  1.1288849282228971e-05
+Erro Médio Quadrático =  1.1266122407364205e-05
+Erro Médio Quadrático =  1.1243496344132028e-05
+Erro Médio Quadrático =  1.1220970251913846e-05
+Erro Médio Quadrático =  1.119854330137766e-05
+Erro Médio Quadrático =  1.1176214675015951e-05
+Erro Médio Quadrático =  1.1153983567641575e-05
+Erro Médio Quadrático =  1.1131849186845639e-05
+Erro Médio Quadrático =  1.110981075341947e-05
+Erro Médio Quadrático =  1.1087867501730634e-05
+Erro Médio Quadrático =  1.1066018680065404e-05
+Erro Médio Quadrático =  1.1044263550930254e-05
+Erro Médio Quadrático =  1.1022601391314435e-05
+Erro Médio Quadrático =  1.1001031492914242e-05
+Erro Médio Quadrático =  1.0979553162319372e-05
+Erro Médio Quadrático =  1.0958165721162935e-05
+Erro Médio Quadrático =  1.0936868506232612e-05
+Erro Médio Quadrático =  1.0915660869546558e-05
+Erro Médio Quadrático =  1.089454217839469e-05
+Erro Médio Quadrático =  1.0873511815343188e-05
+Erro Médio Quadrático =  1.085256917820888e-05
+Erro Médio Quadrático =  1.0831713679995252e-05
+Erro Médio Quadrático =  1.081094474880339e-05
+Erro Médio Quadrático =  1.0790261827706292e-05
+Erro Médio Quadrático =  1.0769664374598431e-05
+Erro Médio Quadrático =  1.0749151862013258e-05
+Erro Médio Quadrático =  1.0728723776916257e-05
+Erro Médio Quadrático =  1.0708379620470207e-05
+Erro Médio Quadrático =  1.0688118907779236e-05
+Erro Médio Quadrático =  1.0667941167605329e-05
+Erro Médio Quadrático =  1.0647845942067824e-05
+Erro Médio Quadrático =  1.0627832786317066e-05
+Erro Médio Quadrático =  1.0607901268197099e-05
+Erro Médio Quadrático =  1.0588050967882932e-05
+Erro Médio Quadrático =  1.056828147750777e-05
+Erro Médio Quadrático =  1.0548592400772144e-05
+Erro Médio Quadrático =  1.0528983352542938e-05
+Erro Médio Quadrático =  1.0509453958439433e-05
+Erro Médio Quadrático =  1.0490003854408716e-05
+Erro Médio Quadrático =  1.0470632686294634e-05
+Erro Médio Quadrático =  1.0451340109396176e-05
+Erro Médio Quadrático =  1.0432125788024968e-05
+Erro Médio Quadrático =  1.0412989395053522e-05
+Erro Médio Quadrático =  1.0393930611463175e-05
+Erro Médio Quadrático =  1.0374949125887358e-05
+Erro Médio Quadrático =  1.0356044634160151e-05
+Erro Médio Quadrático =  1.0337216838858143e-05
+Erro Médio Quadrático =  1.0318465448848155e-05
+Erro Médio Quadrático =  1.0299790178838039e-05
+Erro Médio Quadrático =  1.0281190748929127e-05
+Erro Médio Quadrático =  1.0262666884175897e-05
+Erro Médio Quadrático =  1.0244218314149613e-05
+Erro Médio Quadrático =  1.0225844772510121e-05
+Erro Médio Quadrático =  1.0207545996584034e-05
+Erro Médio Quadrático =  1.0189321726951953e-05
+Erro Médio Quadrático =  1.017117170704426e-05
+Erro Médio Quadrático =  1.0153095682747942e-05
+Erro Médio Quadrático =  1.0135093402020134e-05
+Erro Médio Quadrático =  1.0117164614518592e-05
+Erro Médio Quadrático =  1.009930907123648e-05
+Erro Médio Quadrático =  1.0081526524153384e-05
+Erro Médio Quadrático =  1.006381672589735e-05
+Erro Médio Quadrático =  1.0046179429419444e-05
+Erro Médio Quadrático =  1.0028614387679261e-05
+Erro Médio Quadrático =  1.0011121353345571e-05
+Erro Médio Quadrático =  9.993700078509414e-06
+--------------TERMINOU--------------
+Quantidade de Épocas =  2088
+--------------TREINADO--------------
+Qtd de neurônios na camada de entrada: 7
+Qtd de neurônios na camada oculta: 3
+Qtd de neurônios na camada de saída: 3
+Parcela de teste: 0.3
+Taxa de aprendizado: 0.5
+Acurácia: 82.54
+Quantidade de epocas: 2088

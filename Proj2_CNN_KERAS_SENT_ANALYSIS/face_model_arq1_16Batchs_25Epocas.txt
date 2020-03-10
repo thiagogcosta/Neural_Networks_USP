@@ -1,0 +1,70 @@
+Using TensorFlow backend.
+CONJUNTO DE DADOS:  5907
+TREINAMENTO:  4521
+TESTE:  1386
+2018-10-22 16:01:32.422323: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+2018-10-22 16:01:32.677569: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1411] Found device 0 with properties:
+name: GeForce GTX 1050 Ti major: 6 minor: 1 memoryClockRate(GHz): 1.392
+pciBusID: 0000:01:00.0
+totalMemory: 4.00GiB freeMemory: 3.29GiB
+2018-10-22 16:01:32.682571: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1490] Adding visible gpu devices: 0
+2018-10-22 16:01:33.491516: I tensorflow/core/common_runtime/gpu/gpu_device.cc:971] Device interconnect StreamExecutor with strength 1 edge matrix:
+2018-10-22 16:01:33.495059: I tensorflow/core/common_runtime/gpu/gpu_device.cc:977]      0
+2018-10-22 16:01:33.496372: I tensorflow/core/common_runtime/gpu/gpu_device.cc:990] 0:   N
+2018-10-22 16:01:33.498435: I tensorflow/core/common_runtime/gpu/gpu_device.cc:1103] Created TensorFlow device (/job:localhost/replica:0/task:0/device:GPU:0 with 3007 MB memory) -> physical GPU (device: 0, name: GeForce GTX 1050 Ti, pci bus id: 0000:01:00.0, compute capability: 6.1)
+CNN INICIALIZADA!
+Train on 4521 samples, validate on 1386 samples
+Epoch 1/25
+4521/4521 [==============================] - 98s 22ms/step - loss: 1.8632 - acc: 0.3448 - val_loss: 1.7556 - val_acc: 0.2821
+Epoch 2/25
+4521/4521 [==============================] - 91s 20ms/step - loss: 1.6564 - acc: 0.3953 - val_loss: 1.4673 - val_acc: 0.4733
+Epoch 3/25
+4521/4521 [==============================] - 91s 20ms/step - loss: 1.5170 - acc: 0.4307 - val_loss: 1.3898 - val_acc: 0.4805
+Epoch 4/25
+4521/4521 [==============================] - 91s 20ms/step - loss: 1.4263 - acc: 0.4311 - val_loss: 1.3141 - val_acc: 0.5152
+Epoch 5/25
+4521/4521 [==============================] - 91s 20ms/step - loss: 1.3120 - acc: 0.4736 - val_loss: 1.3343 - val_acc: 0.5029
+Epoch 6/25
+4521/4521 [==============================] - 91s 20ms/step - loss: 1.2208 - acc: 0.4946 - val_loss: 1.2666 - val_acc: 0.5310
+Epoch 7/25
+4521/4521 [==============================] - 92s 20ms/step - loss: 1.1272 - acc: 0.5105 - val_loss: 1.2324 - val_acc: 0.5339
+Epoch 8/25
+4521/4521 [==============================] - 92s 20ms/step - loss: 1.0567 - acc: 0.5342 - val_loss: 1.2229 - val_acc: 0.5361
+Epoch 9/25
+4521/4521 [==============================] - 92s 20ms/step - loss: 0.9932 - acc: 0.5430 - val_loss: 1.3037 - val_acc: 0.5296
+Epoch 10/25
+4521/4521 [==============================] - 92s 20ms/step - loss: 0.9461 - acc: 0.5601 - val_loss: 1.4122 - val_acc: 0.5130
+Epoch 11/25
+4521/4521 [==============================] - 92s 20ms/step - loss: 0.9195 - acc: 0.5581 - val_loss: 1.3239 - val_acc: 0.5209
+Epoch 12/25
+4521/4521 [==============================] - 92s 20ms/step - loss: 0.8836 - acc: 0.5645 - val_loss: 1.2900 - val_acc: 0.5361
+Epoch 13/25
+4521/4521 [==============================] - 93s 21ms/step - loss: 0.8453 - acc: 0.5760 - val_loss: 1.2606 - val_acc: 0.5426
+Epoch 14/25
+4521/4521 [==============================] - 92s 20ms/step - loss: 0.8298 - acc: 0.5793 - val_loss: 1.4165 - val_acc: 0.5281
+Epoch 15/25
+4521/4521 [==============================] - 92s 20ms/step - loss: 0.7980 - acc: 0.5906 - val_loss: 1.4170 - val_acc: 0.5382
+Epoch 16/25
+4521/4521 [==============================] - 92s 20ms/step - loss: 0.7716 - acc: 0.5928 - val_loss: 1.4607 - val_acc: 0.5310
+Epoch 17/25
+4521/4521 [==============================] - 92s 20ms/step - loss: 0.7599 - acc: 0.5981 - val_loss: 1.4771 - val_acc: 0.5390
+Epoch 18/25
+4521/4521 [==============================] - 92s 20ms/step - loss: 0.7567 - acc: 0.6008 - val_loss: 1.6325 - val_acc: 0.5260
+Epoch 19/25
+4521/4521 [==============================] - 92s 20ms/step - loss: 0.7338 - acc: 0.5961 - val_loss: 1.4246 - val_acc: 0.5390
+Epoch 20/25
+4521/4521 [==============================] - 93s 21ms/step - loss: 0.7372 - acc: 0.5950 - val_loss: 1.5611 - val_acc: 0.5303
+Epoch 21/25
+4521/4521 [==============================] - 92s 20ms/step - loss: 0.7151 - acc: 0.5941 - val_loss: 1.4975 - val_acc: 0.5476
+Epoch 22/25
+4521/4521 [==============================] - 93s 21ms/step - loss: 0.7125 - acc: 0.5957 - val_loss: 1.4120 - val_acc: 0.5483
+Epoch 23/25
+4521/4521 [==============================] - 94s 21ms/step - loss: 0.6972 - acc: 0.5999 - val_loss: 1.4621 - val_acc: 0.5397
+Epoch 24/25
+4521/4521 [==============================] - 94s 21ms/step - loss: 0.7013 - acc: 0.6056 - val_loss: 1.5194 - val_acc: 0.5390
+Epoch 25/25
+4521/4521 [==============================] - 93s 21ms/step - loss: 0.6940 - acc: 0.6111 - val_loss: 1.4708 - val_acc: 0.5397
+PERDA:  1.4707956372573434
+ACURÁCIA:  0.5396825397685493
+CNN FINALIZADA!
+TEMPO TOTAL:  2329.280123949051
